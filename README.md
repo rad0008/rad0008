@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Brady 👋
 
-<!--
-**rad0008/rad0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a strong interest in AI, machine learning, and data science. 
+I enjoy building practical systems, analyzing data, and working with modern development tools.
 
-Here are some ideas to get you started:
+### 💻 Technical Interests
+- Software Development
+- Data Science & Machine Learning
+- AI-driven systems
+- Backend & Full-stack development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Familiar Technologies
+Python, Java, JavaScript, SQL  
+Pandas, NumPy, scikit-learn  
+React, Node.js, Flask  
+Docker, Git, CI/CD, REST APIs
+
+### 🌏 About Me
+- Fluent in Japanese and English
+- Interested in international tech experiences
+- Motivated to learn through hands-on projects and collaboration
+
+📫 Feel free to explore my repositories below!
